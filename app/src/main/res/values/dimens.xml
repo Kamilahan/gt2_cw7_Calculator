@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="frameL_height">0dp</dimen>
+    <dimen name="tV_ts">80sp</dimen>
+    <dimen name="tV_mh">34dp</dimen>
+    <dimen name="buttonsLinearL_pv">6dp</dimen>
+    <dimen name="margin_betweenButtons">18dp</dimen>
+    <dimen name="buttonsLinearL_ph">18dp</dimen>
+    <dimen name="btn_0_width">168dp</dimen>
+    <dimen name="btn_0_ps">30dp</dimen>
+    <dimen name="btn_2ndA_ts">20sp</dimen>
+
+</resources>
